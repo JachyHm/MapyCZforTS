@@ -1,4 +1,4 @@
-# MapyCZforTS
+# ~~MapyCZforTS~~ DEPRECATED!!! - replaced with [MapyCZforTS2](https://github.com/JachyHm/MapyCZforTS2)
 ![Náhled aplikace](/MapyCZforTSexample.jpg)
 
 Pythoní aplikace k nahrazení místy zastaralých map od Google mapami od Seznamu.
